@@ -17,7 +17,7 @@ namespace SnelRekenen
 
             Console.Write("Wat is je naam? ");
             var naam = Console.ReadLine();
-            Console.Write("Hallo " + naam + ". ");
+            Console.Write("Hey... " + naam + "! ");
 
             while (true)
             {

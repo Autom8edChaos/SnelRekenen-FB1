@@ -16,6 +16,7 @@ namespace SnelRekenen
             var splitScore = scoreString.Split('\t');
             Naam = splitScore[0];
             Punten = int.Parse(splitScore[1]);
+
         }
     }
 }
